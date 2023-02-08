@@ -1,8 +1,15 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## TODO-LIST-APP - Jerson Ray B. Desierto - Added Done Fuunction
+# TODO-LIST-APP 
+### - Jerson Ray Desierto
+### - Added Done Function
+
+Download this repository then copy the src then paste/replace it to your next js file/folder.
 
 ## Getting Started
+
+## Install Tailwind CSS Framwork to Avoid UI Destruction > Installation Process <a href="https://tailwindcss.com/docs/guides/nextjs"> here </a>
+
 
 First, run the development server:
 
